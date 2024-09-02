@@ -6,7 +6,7 @@ This repository contains a collection of assignments and projects I completed as
 
 ## Project Descriptions
 
-### [Project 0: Basic Image Processing Tasks](#./0.%20Intro%20to%20Computer%20Vision.ipynb)
+### [Project 0: Basic Image Processing Tasks](#./0. Intro to Computer Vision.ipynb)
 This introductory assignment focused on getting started with Python and NumPy for basic image operations, including vectorization and manipulation of image channels.
 
 ### [Project 1: Photometric Stereo and Image Rendering](#./1.%20Photometric%20Stereo%20%26%20Image%20Rendering.ipynb)
